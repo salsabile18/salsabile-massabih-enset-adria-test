@@ -37,7 +37,9 @@ Il Faut d'abord avoir configuré l'environnement de développement avec les él�
 - Node.js (si vous choisissez Angular ou React)
 - Outils Spring (Spring Boot, Spring Cloud)
 
-### 1. Modelisation ( Diagramme de classe):
+### 1. Modelisation ( Diagramme de classe incomplet):
+![image](https://github.com/salsabile18/salsabile-massabih-enset-adria-test/assets/100244944/6c929442-b8a6-4224-9567-c600a79082bc)
+
 
 
 ### 2. Mise en place des Microservices
