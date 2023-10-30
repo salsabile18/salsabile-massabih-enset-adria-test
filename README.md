@@ -28,7 +28,7 @@ L'application se compose de deux microservices fonctionnels :
 
 ## Instructions de Travail
 
-### 1. Configuration de l'environnement
+###  Configuration de l'environnement
 
 Il Faut d'abord avoir configuré l'environnement de développement avec les éléments suivants :
 - Java JDK
@@ -36,6 +36,9 @@ Il Faut d'abord avoir configuré l'environnement de développement avec les él�
 - Un IDE (par exemple, IntelliJ IDEA, Eclipse)
 - Node.js (si vous choisissez Angular ou React)
 - Outils Spring (Spring Boot, Spring Cloud)
+
+### 1. Modelisation ( Diagramme de classe):
+
 
 ### 2. Mise en place des Microservices
 
