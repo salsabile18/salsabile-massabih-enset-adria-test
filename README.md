@@ -1,4 +1,5 @@
 # salsabile-massabih-enset-adria-test
+#le code existe dans MASTER branch
 # Projet de POC (Proof Of Concept) - Gestion de Portefeuilles et Transferts
 
 Ce projet vise à développer une application web sous forme d'une architecture microservices en utilisant l'écosystème Spring Boot et Spring Cloud pour la partie backend, et un framework tel qu'Angular ou React pour la partie frontend. L'application permet de gérer des portefeuilles (Wallets) de devises ainsi que des transferts entre ces portefeuilles.
